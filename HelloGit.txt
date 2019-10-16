@@ -5,7 +5,7 @@ class HelloGit{
 		sysout("My method");
 	}
 	public static void main(){
-
+		mymethod();
 		system.out.println("this will print...Hello Git");
 
 	}
