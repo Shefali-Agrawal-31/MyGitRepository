@@ -1,7 +1,7 @@
 This is my complete java application file
 
 class HelloGit{
-	void myMethod(){
+	staic void myMethod(){
 		sysout("My method");
 	}
 	public static void main(){
