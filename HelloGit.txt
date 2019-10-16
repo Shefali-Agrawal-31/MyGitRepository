@@ -1,6 +1,9 @@
 This is my complete java application file
 
 class HelloGit{
+	void myMethod(){
+		sysout("My method");
+	}
 	public static void main(){
 
 		system.out.println("this will print...Hello Git");
