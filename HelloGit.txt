@@ -2,6 +2,6 @@ This is my complete java application file
 
 class HelloGit{
 	public static void main(){
-		system.out.println("helloGit");
+		system.out.println("java application to print..Hello Git");
 	}
 }
