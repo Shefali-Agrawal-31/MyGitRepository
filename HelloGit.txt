@@ -2,10 +2,12 @@ This is my complete java application file
 
 class HelloGit{
 	staic void myMethod(){
-		sysout("My method");
+		System.out.println("My method");
 	}
 	public static void main(){
+
 		mymethod();
+
 		system.out.println("this will print...Hello Git");
 
 	}
